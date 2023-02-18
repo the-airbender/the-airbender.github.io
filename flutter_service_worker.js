@@ -4,17 +4,18 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ff966ab969ba381b900e61629bfb9789",
-"index.html": "cacb28b039df7a2d1de20f6263e8782e",
-"/": "cacb28b039df7a2d1de20f6263e8782e",
-"main.dart.js": "bd12688ca433c75b1b2627515b63c7ae",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "0867c3e13649ac4d06fe34b7b3ddce08",
+"index.html": "b3d350d8489161d2d2d747c386b11546",
+"/": "b3d350d8489161d2d2d747c386b11546",
+"main.dart.js": "2852a259b32ea5c2bae82c39833e7b18",
+"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"favicon.png": "d7790af78f190e7d1a363ba545bb1fa5",
+"icons/icon-192.png": "7b6f0b1467599819e3463da49057f955",
+"icons/icon-maskable-192.png": "7b6f0b1467599819e3463da49057f955",
+"icons/icon-maskable-512.png": "7b6f0b1467599819e3463da49057f955",
+"icons/icon-512.png": "7b6f0b1467599819e3463da49057f955",
+"manifest.json": "6a6c5112cf038dab5ddd38493a910c63",
 "assets/AssetManifest.json": "5106830d68ef76e241d301e78139f874",
-"assets/NOTICES": "4c315602c718e41566af851ed7b1bc4c",
+"assets/NOTICES": "f8d6087ceea4645789b240e19b391279",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/packages/quill_html_editor/assets/delete_row.png": "3a56332918794e49ffca20016948553d",
 "assets/packages/quill_html_editor/assets/insert_column_left.png": "114e6cca4b2f60a5eaebe4e574f2c36d",
@@ -23,12 +24,16 @@ const RESOURCES = {
 "assets/packages/quill_html_editor/assets/insert_row_above.png": "80ae3856d5f7415d9957d9a1699ec782",
 "assets/packages/quill_html_editor/assets/insert_column_right.png": "fb27c4e3cc557089f79dd1f0cc937d62",
 "assets/packages/quill_html_editor/assets/insert_row_below.png": "cea46607b37038f71c0fec22341b80e4",
-"assets/packages/quill_html_editor/assets/camera_roll_icon.png": "469fee9b9ae00f10bbde8b37b7be9d3b",
+"assets/packages/quill_html_editor/assets/camera_roll_icon.png": "962f1d57cab7451d4b92b236b1993bd5",
 "assets/packages/quill_html_editor/assets/delete_column.png": "62358bf5aa9ac7f18e2411e4a0c63f14",
 "assets/packages/quill_html_editor/assets/delete_table.png": "37e148071ce0a306a27f296369e52f40",
 "assets/packages/quill_html_editor/assets/edit_table.png": "6a51397f56e90d98ae0b46a2e359676f",
 "assets/packages/quill_html_editor/assets/h2_dark.png": "037de75dfed94244b78e7493c6425586",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080"
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
