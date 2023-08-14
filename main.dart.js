@@ -80541,7 +80541,7 @@ $S:483}
 A.a7w.prototype={
 $1(a){var s=this.a
 s.as=!1
-s.ag(new A.a7l())},
+if(s.c!=null)s.ag(new A.a7l())},
 $S:17}
 A.a7l.prototype={
 $0(){},
@@ -80571,7 +80571,7 @@ p===$&&A.a()
 s=J.hh(a)
 if(p===A.a78(s.k(a)))return
 try{p=A.a78(s.k(a))
-q.r=p==null?q.a.d:p}catch(r){q.r=q.a.d}finally{q.ag(new A.a7n(q))
+q.r=p==null?q.a.d:p}catch(r){q.r=q.a.d}finally{if(q.c!=null)q.ag(new A.a7n(q))
 q.a.as.$1(q.r)}},
 $S:4}
 A.a7n.prototype={
@@ -80630,7 +80630,7 @@ $1(a){var s
 A.nu("Editorloaded "+A.h(a))
 s=this.a
 s.as=!0
-s.ag(new A.a7m())},
+if(s.c!=null)s.ag(new A.a7m())},
 $S:4}
 A.a7m.prototype={
 $0(){},
